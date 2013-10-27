@@ -1,5 +1,14 @@
 A.
 I to run the server i typed "python manage.py runserver 8001" when i was at the topists directory,
-so to get to the website's homePage i typed in the URL bar "localhost:8001".
+so to get to the website's homePage I typed in the URL bar "localhost:8001".
 
+B.
+After I clicked the movie's link the URL was 'localhost:8001/movies/1/'. 
+After I added another one and clicked it, it went to the URL 'localhost:8001/movies/2/'
+If I would have added 100 movies, clicking the 100th one would have lead me to the URL 'localhost:8001/movies/100/'
 
+C.
+According to the urls.py file, the address “http://127.0.0.1:8001/movies/addmovie” would have lead me to the 'add_movie' function in views.py.
+If I would have typed “http://127.0.0.1:8001/movies/5/” into the adress bar it would have lead me to the 'movie' function in views.py.
+The URL “http://127.0.0.1:8001/shrek” gives an error that says that this url did not match any url pattern that we put, because indeed it doesn't.
+All of our URL patterns start with 'movie/'.

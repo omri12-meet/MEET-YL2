@@ -12,3 +12,6 @@ According to the urls.py file, the address “http://127.0.0.1:8001/movies/addmo
 If I would have typed “http://127.0.0.1:8001/movies/5/” into the adress bar it would have lead me to the 'movie' function in views.py.
 The URL “http://127.0.0.1:8001/shrek” gives an error that says that this url did not match any url pattern that we put, because indeed it doesn't.
 All of our URL patterns start with 'movie/'.
+
+
+3.d.I - I changed it from 'movies/addmovie' to 'movies/addcomment' because i want it to go to the URL 'movies/addcomment' which will then, using views.py, add the new comment.
