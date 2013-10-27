@@ -14,4 +14,4 @@ The URL “http://127.0.0.1:8001/shrek” gives an error that says that this url
 All of our URL patterns start with 'movie/'.
 
 
-3.d.I - I changed it from 'movies/addmovie' to 'movies/addcomment' because i want it to go to the URL 'movies/addcomment' which will then, using views.py, add the new comment.
+3.d.I - I changed it from 'movies/addmovie' to 'movies/addcomment' because i wanted it to go to the URL 'movies/addcomment' which will then, using views.py, add the new comment.
