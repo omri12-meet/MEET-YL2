@@ -1,0 +1,12 @@
+My Individual Project will be an app (shoot!), in which you determine a certain pace of picture-taking and a certain time range, and a specific camera (back/front) and then hit start - and the app will take pictures in this pace automatically in the time selected.
+
+shaking the device (accelerometer) in the middle of the photo-taking will stop it in the middle.
+
+all the photos will be saved in a gallery, and will be able to be deleted.
+
+
+<not done>
+
+
+
+
