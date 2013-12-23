@@ -1,0 +1,60 @@
+Hey Michele
+sorry about the length but it is a long story..
+
+
+so you should see two apps in my folder.
+the reason for that is that i was working for a long time on my genuine idea, with some small changes.
+the idea is taking some photos automatically in a certain pace.
+the user determines in which pace and for how long to take pictures, and when to start.
+the app takes the pictures and stores them in a database in groups.
+the gallery presents the photos, without seperation between groups for now.
+
+at some point I found out that appinventor doesn't let the app really take pictures by itself.
+then you showed me (thanks) "takepicture", an external library that once is called (using an activityStarter)
+takes a picture and then returns it to the app in the "afterActivity" block.
+
+http://puravidaapps.com/takepicture.php - the explanations and examples of "takepicture".
+https://code.google.com/p/puravidaapps/downloads/detail?name=takepicture.apk for downloading its .apk.
+
+(i was working with the phone i loned from Meet).
+
+when i got to the step of running the app, takePicture crashed time after time.
+i made sure it wasn't a problem with my code by trying out the developer's "takepicture test" app,
+in which takepicture crashed as well every couple of photos it took.
+
+bumbed though determined i sat and decided i don't want to hand in a bad project.
+so i sat for some hours at night and built a new project.
+the new project is a Tic-Tac-Tow game that you play against a friend,
+in which you can take pictures of yourselves and set them as X and O.
+(these photos will appear on the board of the game).
+they are saved in a database and loaded automatically once opening the app.
+only one pair of photos is saved at each time.
+changing the photos is only possible when not playing.
+when the game is over the result is presented. a "reset" button lets you start a new game at any moment.
+(i've finished the app that night.)
+
+this game may contain a bit less features but it did take some thinking and a bunch of code.
+
+
+Today (Sunday 22nd) i tried my old app once again, this time on my louzy slow old android,
+which has the android version 2.something
+it worked. "takepicture" did not crush on my phone.
+i looked again at the webpage of "takepicture" and it said that they checked it on android 2 and 3.
+so i assume that it not working with the Meet phone, which has the android version 4.something,
+because it's not compatible with android 4.
+
+so anyway i went back and worked on the genuine idea (remember that it was today, december 22nd).
+after a long night of some more work i managed to finish it.
+
+both apps aren't so pretty, but that's it for now:)
+
+i know you probably think i shoudld've worked on it earlier, and i agree, but i did work on it for many hours even before i got stuck,
+and the last few weeks were crazy, especially because of school pressure.
+
+________________________
+
+sorry again for the length :O   and thanks for the help.
+I hope you'll find some android 3 or 2 to check out my camera-app, there should'nt be a problem with the Tic-Tac-Toe.
+i put more work to this, obviously, as this is my original idea.
+if you won't find such device (consider temporary downgrading), i can bring mine.
+remember that the camera app ("PhotoMatic") has to have "takepicture" installed (the link is up).
